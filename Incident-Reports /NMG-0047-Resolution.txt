@@ -1,0 +1,8 @@
+Ticket Number:- NMG-0047
+Affected User:- Jane Cooper(jcooper@NMG.com)
+Issue Reported:- Unable to access HR shared resources. Desktop policy and mapped dives differ from teammate.
+Root cause:- Jane was added to the Operations OU and group which means she will only have the rights of the oprations department and not the HR department.
+Fix applied:- Jane was moved to her appropritate department which is the HR OU and group.
+verification:- She noe have access to all the files and folders she requires
+Date: 20 August 2026
+Resolved by:- Babajide 
