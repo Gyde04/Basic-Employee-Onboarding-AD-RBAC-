@@ -5,8 +5,7 @@
 ## Solution Overview
 * The solution involved building a structured employee onboarding pipeline in Active Directory and implementing an RBAC matrix to ensure users received access strictly based on their job roles and responsibilities. This replaced the previous manual and inconsistent access assignment process with a more controlled approach. I also simulated a mock access request ticket in which a user was incorrectly provisioned with excessive permissions. The scenario demonstrated how improper access could be identified, corrected, and documented through the new access control process.
 ## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
-
+* https://www.loom.com/share/11eca3c49d1c492faac52c778a4b17d0
 ## Tools Used
 * Windows Server
 * Active Directory Domain Services
